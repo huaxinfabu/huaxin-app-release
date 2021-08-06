@@ -1,7 +1,17 @@
 {
-   "code":0,
-   "data":{
-      "android":"https://www.baidu.com",
-      "ios":"https://www.google.com"
-   }
+  "code": 0,
+  "data": {
+    "downloads": {
+      "android": "https://www.baidu.com",
+      "ios": "https://www.google.com"
+    },
+    "official": {
+      "cs_wechat": "商务合作微信号",
+      "cs_telegram": "telegram 客服",
+      "telegram_group": "https://xxx.xxx/xxx/telegram群",
+      "github_domain_release": "https://xxx.xxx/www/github新域名发布页",
+      "potato_group": "https://www.wwwe.rrr/ccc/土豆群",
+      "cs_online": "https://www.eee.fff/在线客服"
+    }
+  }
 }
