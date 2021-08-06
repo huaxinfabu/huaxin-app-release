@@ -11,7 +11,9 @@
       "telegram_group": "https://xxx.xxx/xxx/telegram群",
       "github_domain_release": "https://xxx.xxx/www/github新域名发布页",
       "potato_group": "https://www.wwwe.rrr/ccc/土豆群",
-      "cs_online": "https://www.eee.fff/在线客服"
+      "cs_online": "https://www.eee.fff/在线客服",
+      "email": "example@example.com",
+      "website": "https://hx3.tv"
     }
   }
 }
