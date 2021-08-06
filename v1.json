@@ -1,0 +1,16 @@
+{
+  "videos": [
+    {
+      "title": "这里是视频标题1",
+      "cover_assets": "https://files.tjguanbei.com/v2_long_video_cover/1ebf3c94-60ef-6c9a-b8b1-ecf4bbc4fe9a/bfe769c804e3fc2cb83314efc7b3dea40405dc45f1b02b057bd6e89f2a029423.webp"
+    },
+    {
+      "title": "这里是视频标题2",
+      "cover_assets": "https://files.tjguanbei.com/v2_long_video_cover/1ebf3c94-60ef-6c9a-b8b1-ecf4bbc4fe9a/bfe769c804e3fc2cb83314efc7b3dea40405dc45f1b02b057bd6e89f2a029423.webp"
+    },
+    {
+      "title": "这里是视频标题3",
+      "cover_assets": "https://files.tjguanbei.com/v2_long_video_cover/1ebf3c94-60ef-6c9a-b8b1-ecf4bbc4fe9a/bfe769c804e3fc2cb83314efc7b3dea40405dc45f1b02b057bd6e89f2a029423.webp"
+    }
+  ]
+}
